@@ -7,7 +7,7 @@ I am a Technical Business Analyst who likes to code for fun!
 I started working as a software developer in 2020 but quickly realised I have a passion for project management and solving business problems through innovative solutions. These days I code here and there to keep up to date with the latest technologies and to build things I can't find other people making.
 
 * 🌍  I'm based in Brisbane
-* 🧠  I'm learning the T3 stack
+* 🧠  I'm learning NextJS
 * ⚡  I can solve a rubik's cube in under a minute
 
 ### Skills
